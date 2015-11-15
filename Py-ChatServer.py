@@ -4,7 +4,7 @@ import threading
 SIZE = 4
 print 'Welcome to Py-Chat'
 print 'This is Py-Chat server'
-print 'Designed by : Ankush Bhatia\nFork me on GitHub\n My ID is asshatter'
+print 'Designed by : Ankush Bhatia\n My ID is asshatter'
 port = 5432 # You can use any number greater than 1024
 
 soc = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
